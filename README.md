@@ -7,10 +7,32 @@
   </div>
   
 词音项目预览: [地址链接](https://marsperl.github.io/ciyin/index.html)
-<div align="center">
-  
-  ## 专注时钟
-<img src="https://user-images.githubusercontent.com/81470896/160514657-7db9e297-23b9-4bc0-9f55-7e517783a4e2.png" width="50%" height="50%" />  
+<div align="center">  
+ 
+
+  ## 专注时钟  
+     
+</div>
+
+<div>
+ 
+
+以下视频专注时钟的教程，项目实现的功能有：
+ 
+1.时间显示和番茄时钟
+ 
+2.时间的浏览器全屏显示
+ 
+3.浏览器不休眠显示时间
+ 
+4.主题样式切换
+ 
+5.番茄时钟的自定义
+
+
+ https://user-images.githubusercontent.com/81470896/168578453-5f69a5a1-fb80-492a-b9f4-2a73bea17c68.mp4 
   </div>
   
-词音项目预览: [地址链接](https://marsperl.github.io/ciyin/index.html)
+  
+专注时钟项目预览: [地址链接](https://marsperl.github.io/zhuanzhushizhong/time.html)
+### 在本地运行项目的自定义右键菜单能用，但在上面的链接里不能用(应该是被浏览器禁用了)
