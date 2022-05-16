@@ -1,5 +1,9 @@
 //提取到函数外面作为全局变量
-		var rm = document.getElementById("rightMenu");
+		
+document.oncontextmenu = function(){
+  return false;
+}
+var rm = document.getElementById("rightMenu");
 
 		//自定义一个浏览器右键菜单，单击右键是显示它
 		//oncontextmenu上下文菜单事件，右键菜单
