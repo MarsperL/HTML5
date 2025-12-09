@@ -6,7 +6,6 @@
 <img src="https://user-images.githubusercontent.com/81470896/160514657-7db9e297-23b9-4bc0-9f55-7e517783a4e2.png" width="50%" height="50%" />  
   </div>
   
-词音项目预览: [地址链接](https://marsperl.github.io/ciyin/index.html)
 <div align="center">  
  
 
@@ -34,7 +33,7 @@
   </div>
   
   
-专注时钟项目预览: [地址链接](https://marsperl.github.io/zhuanzhushizhong/time.html)
+专注时钟项目预览: [地址链接](https://yyg.js.cool/focusclock/)
 
-专注时钟软件：[地址链接](https://github.com/MarsperL/HTML5/blob/main/%E4%B8%93%E6%B3%A8%E6%97%B6%E9%92%9F.zip)
-### 在本地运行项目的自定义右键菜单能用，但在上面的链接里不能用(应该是被浏览器禁用了)
+专注时钟软件：[地址链接](https://github.com/MarsperL/HTML5/blob/main/%E4%B8%93%E6%B3%A8%E6%97%B6%E9%92%9F2.0.zip)
+
